@@ -10,7 +10,7 @@ class Solution {
                 prac[0]=pracMap.get(target-nums[i]);
                 return prac;
             }
-            pracMap.put(prac[i],i);
+            pracMap.put(nums[i],i);
         }
         return prac;
     }
