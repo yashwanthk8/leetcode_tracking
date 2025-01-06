@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0171-excel-sheet-column-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
