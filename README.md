@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0322-coin-change) |
 | [1236-n-th-tribonacci-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
