@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0258-add-digits) |
 | [1236-n-th-tribonacci-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -50,5 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0258-add-digits) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashwanthk8/leetcode_tracking/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
