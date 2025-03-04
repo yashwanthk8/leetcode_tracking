@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0171-excel-sheet-column-number) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yashwanthk8/leetcode_tracking/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0322-coin-change) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yashwanthk8/leetcode_tracking/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
