@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0171-excel-sheet-column-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashwanthk8/leetcode_tracking/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0258-add-digits) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashwanthk8/leetcode_tracking/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
