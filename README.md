@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0560-subarray-sum-equals-k) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
