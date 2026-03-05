@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashwanthk8/leetcode_tracking/tree/master/0171-excel-sheet-column-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashwanthk8/leetcode_tracking/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashwanthk8/leetcode_tracking/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
